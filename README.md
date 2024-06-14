@@ -6,6 +6,17 @@
 
 ###
 
+<h2 align="left">✨ About me</h2>
+
+###
+
+<p align="left">I'm interested in: Software Development, Computer Science, Coding<br>
+What I'm learning right now: Rust, Bevy Engine, TensorFlow<br>
+My favorite programming languages: Java, Rust<br>
+My favorite programming areas: Graphics Computing, Artificial Intelligence, Mobile Development</p>
+
+###
+
 <h2 align="left">⚙️ Some of the Tools and Tech I like to use</h2>
 
 ###
@@ -35,17 +46,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
 </div>
-
-###
-
-<h2 align="left">✨ About me</h2>
-
-###
-
-<p align="left">I'm interested in: Software Development, Computer Science, Coding<br>
-What I'm learning right now: Rust, Bevy Engine, TensorFlow<br>
-My favorite programming languages: Java, Rust<br>
-My favorite programming areas: Graphics Computing, Artificial Intelligence, Mobile Development</p>
 
 ###
 
