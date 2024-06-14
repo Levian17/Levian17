@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My main repository, where I upload the projects that deserve to see the light of day. <br>Currently im maintaining this repository so it will have no projects until im done.</p>
+<p align="left">Hey! This is where I upload the projects that deserve to see the light of day.<br>Check them out if you're interested and feel free to give some feedback. :)</p>
 
 ###
 
