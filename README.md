@@ -38,6 +38,14 @@
 
 ###
 
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">Hey! This is where I upload the projects that deserve to see the light of day.<br>Check them out if you're interested and feel free to give some feedback. :)</p>
+
+###
+
 <h2 align="left">You can find me in</h2>
 
 ###
