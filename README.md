@@ -38,11 +38,14 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">✨ About me</h2>
 
 ###
 
-<p align="left">Hey! This is where I upload the projects that deserve to see the light of day.<br>Check them out if you're interested and feel free to give some feedback. :)</p>
+<p align="left">I'm interested in: Software Development, Computer Science, Coding<br>
+What I'm learning right now: Rust, Bevy Engine, TensorFlow<br>
+My favorite programming languages: Java, Rust<br>
+My favorite programming areas: Graphics Computing, Artificial Intelligence, Mobile Development</p>
 
 ###
 
