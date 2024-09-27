@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hey! This is where I upload the projects that deserve to see the light of day.<br>Check them out if you're interested and feel free to give some feedback. :)<br><br>If u want to know more about me check my portfolio on the pinned repositories.<br>
+<p align="left">Hey! This is where I upload the projects that deserve to see the light of day.<br>Check them out if you're interested and feel free to give some feedback. :)<br><br>If you want to know more about me check my portfolio on the pinned repositories.<br>
 
 ###
 
