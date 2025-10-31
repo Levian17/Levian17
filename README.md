@@ -12,7 +12,7 @@
 
 <p align="left">I'm interested in: Software Development, Computer Science, Coding<br>
 What I'm learning right now: Django, Docker<br>
-My favorite programming languages: Python, Java, Go<br>
+My favorite programming languages: Python, Java<br>
 My favorite programming areas: Backend Development, Mobile Development, Machine Learning </p>
 
 ###
