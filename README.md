@@ -11,9 +11,9 @@
 ###
 
 <p align="left">I'm interested in: Software Development, Computer Science, Coding<br>
-What I'm learning right now: Django, Docker<br>
-My favorite programming languages: Python, Java<br>
-My favorite programming areas: Backend Development, Mobile Development, Machine Learning </p>
+What I'm learning right now: Rust, Docker<br>
+My favorite programming languages: Python, Java, Rust<br>
+My favorite programming areas: Backend, Graphics, Machine Learning</p>
 
 ###
 
